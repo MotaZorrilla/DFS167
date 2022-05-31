@@ -1,0 +1,17 @@
+Fonts used in this design:
+
+Font: Montserrat
+Author: Julieta Ulanovsky
+Url: http://www.fontsquirrel.com/fonts/montserrat
+
+Font: NeoRetroDraw
+Author: Font Boutique
+Url: http://www.fontsquirrel.com/fonts/neoretrodraw
+
+Font: Playfair Display
+Author: Claus Eggers Sørensen
+Url: http://www.fontsquirrel.com/fonts/playfair-display
+
+Font: Reey
+Author: Koen van der Bliek
+Url: https://www.fontsquirrel.com/fonts/reey
